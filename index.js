@@ -25,7 +25,9 @@ client.on('message', message => {
     }
     else if (msg === '!menu') {
         message.reply(
-`🍒 *Cherry bot menú* 🍒
+`🍒 *𔓕꯭  ꯭ ꯭ 𓏲꯭֟፝੭ ꯭⌑𝑀𝑒𝓃ú 𝒹𝑒 𝒞𝒽𝑒𝓇𝓇𝓎  ℬ𝑜𝓉 ⌑꯭ 𓏲꯭֟፝੭ ꯭  ꯭ ꯭𔓕
+¡𝓗𝓸𝓵𝓪! 𝓒ó𝓶𝓸 𝓔𝓼𝓽á𝓼 𝓮𝓵 𝓓í𝓪 𝓭𝓮 𝓗𝓸𝔂, 𝓢𝓸𝔂 *𝓒𝓱𝓮𝓻𝓻𝔂 𝓑𝓸𝓽* 𝗅𝖾𝗋𝗈𝗋𝖾𝗋𝗈🍒.
+
 🌸 !hola
 🌸 !cereza
 🌸 !menu`
