@@ -99,11 +99,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'NeKosmic - Bot'
+global.packname = '🍒 Cherry 🍒'
+global.author = 'Cherry - Bot'
 
 
-global.wm = '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣'
+global.wm = '™🍒 𝓒𝓱𝓮𝓻𝓻𝔂 - 𝓑𝓞𝓣'
 global.wait = '*Espere un momento..*'
 
 
