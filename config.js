@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/CherryLink1' , 'https://chat.whatsapp.com/CherryLink2' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible'] // No tiene utilidad 
+global.linkGC = ['https://chat.whatsapp.com/CherryLink1' , 'https://chat.whatsapp.com/CherryLink2' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible'] 
 global.channelTikTok = ['https://www.tiktok.com/@jenax_morozov?_r=1&_t=ZS-93gLJ1S3LGP']
 global.owner = ['573000000000' , '573000000000'] // contactos y gestiones del Bot
 global.mods = ['573000000000' , '573000000000']
