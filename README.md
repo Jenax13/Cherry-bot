@@ -23,9 +23,7 @@ Ejecutar
 > 
 > pkg install imagemagick -y
 > 
-> git clone
->
-> https://github.com/Jenax13/Cherry-bot.git
+> git clone https://github.com/Jenax13/Cherry-bot.git
 > cd Cherry-bot
 > 
 > npm install
