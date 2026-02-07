@@ -1,38 +1,17 @@
-🍒 Cherry Bot 🍒
+🍒 Cherry Bot
 
-Bot de WhatsApp.
+[![Node.js CI](https://github.com/Jenax13/Cherry-bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/Jenax13/Cherry-bot/actions/workflows/node.js.yml)
 
-Comandos
+Bot de WhatsApp hecho en Node.js, rápido y personalizable.  
+Funciona con Baileys y pensado para correr en Termux o VPS.
 
-.menu
+🚀 Instalación
 
-.ping
+```bash
 
-.owner
-
-.info
-
-Ejecutar
-
-> termux-setup-storage
-> 
-> apt update && apt upgrade -y -y
-> 
-> pkg install git -y
-> 
-> pkg install nodejs -y
-> 
-> pkg install ffmpeg -y
-> 
-> pkg install imagemagick -y
-> 
-> git clone https://github.com/Jenax13/Cherry-bot.git
->
-> cd Cherry-bot
-> 
 > npm install
-> 
-> npm install -g npm@8.5.4
+>
+> node index.js
 > 
 > npm update
 > 
