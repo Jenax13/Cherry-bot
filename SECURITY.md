@@ -21,8 +21,8 @@ Si encuentras una vulnerabilidad o problema de seguridad en Cherry Bot, por favo
 
 ### 📬 Contacto
 - GitHub: https://github.com/Jenax13
-- (Opcional) Email: *(puedes agregar uno si quieres)*
-
+- Email:
+  
 ### ⏱️ Tiempo de respuesta
 - Se intentará responder en un plazo de **48 a 72 horas**.
 - Si la vulnerabilidad es válida, se trabajará en una corrección lo antes posible.
