@@ -33,3 +33,11 @@ jobs:
 
       - name: Start check
         run: node index.js || true
+
+      - name: Save logs if failed
+        if: failure()
+        uses: actions/upload-artifact@v3
+        with:
+          name: cherry-bot-logs
+          path: |
+            npm-debug.log
