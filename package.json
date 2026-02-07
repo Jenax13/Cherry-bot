@@ -1,19 +1,20 @@
 {
   "name": "CherryBot",
   "version": "1.0.0",
-  "description": "Bot con olor a cerezas.",
+  "description": "🍒Bot con olor a cerezas.",
   "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@whiskeysockets/baileys": "6.7.21",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.4.0",
-    "baileys": "6.7.21",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
-    "cheerio": "^1.0.0",
-    "child_process": "^1.0.2",
-    "crypto": "^1.0.1",
+    "cheerio": "^1.0.0-rc.12",
     "file-type": "^20.4.1",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.2",
@@ -32,6 +33,7 @@
     "qs": "^6.14.0",
     "request": "^2.88.2"
   },
-  "author": "CherryTeam",
+  "author": "Naufra",
   "license": "ISC"
+}
 }
