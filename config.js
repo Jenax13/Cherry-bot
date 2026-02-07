@@ -3,7 +3,7 @@ global.linkGC = ['https://chat.whatsapp.com/CherryLink1' , 'https://chat.whatsap
 global.channelTikTok = ['https://www.tiktok.com/@jenax_morozov?_r=1&_t=ZS-93gLJ1S3LGP']
 global.owner = ['573000000000' , '573000000000'] // contactos y gestiones del Bot
 global.mods = ['573000000000' , '573000000000']
-global.prems = ['573000000000' , '573000000000', '573000000000'] // Podra usar algunos comandos del apartado de propietario
+global.prems = ['573234369327' , '573000000000', '573000000000'] // Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 // Nota: Puedes contactarme si necesitas ayuda con algo al +573000000000 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
