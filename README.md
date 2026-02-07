@@ -5,8 +5,11 @@ Bot de WhatsApp.
 Comandos
 
 .menu
+
 .ping
+
 .owner
+
 .info
 
 Ejecutar
@@ -24,6 +27,7 @@ Ejecutar
 > pkg install imagemagick -y
 > 
 > git clone https://github.com/Jenax13/Cherry-bot.git
+>
 > cd Cherry-bot
 > 
 > npm install
