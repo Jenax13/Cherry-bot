@@ -2,20 +2,34 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Actualmente Cherry Bot se encuentra en desarrollo activo.
+Solo la versión más reciente del bot recibe actualizaciones de seguridad.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version | Supported |
+| ------- | --------- |
+| latest  | ✅ Sí     |
+| older  | ❌ No     |
+
+---
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Si encuentras una vulnerabilidad o problema de seguridad en Cherry Bot, por favor:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. **NO** lo publiques en Issues públicas.
+2. Repórtalo de forma privada contactando al desarrollador.
+
+### 📬 Contacto
+- GitHub: https://github.com/Jenax13
+- (Opcional) Email: *(puedes agregar uno si quieres)*
+
+### ⏱️ Tiempo de respuesta
+- Se intentará responder en un plazo de **48 a 72 horas**.
+- Si la vulnerabilidad es válida, se trabajará en una corrección lo antes posible.
+
+### 🔒 Qué esperar
+- Vulnerabilidades críticas tendrán prioridad.
+- Si el reporte es aceptado, se lanzará un parche en la siguiente actualización.
+- Si es rechazado, se explicará el motivo de forma clara.
+
+Gracias por ayudar a mantener Cherry Bot seguro 🍒
