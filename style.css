@@ -1,0 +1,66 @@
+css_content = """
+/* style.css - Cherry Bot Theme */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff0f3;
+    color: #5a0b1a;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    background: white;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 4px 15px rgba(255, 75, 110, 0.2);
+    max-width: 600px;
+    width: 100%;
+    border-top: 5px solid #ff4b6e;
+}
+
+h1 {
+    color: #ff4b6e;
+    text-align: center;
+    font-size: 24px;
+}
+
+.bot-status {
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 20px;
+    background-color: #ffe3e8;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.message-box {
+    border: 1px solid #ffccd5;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fffafb;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #ff4b6e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #e6395b;
+}
+"""
+
+with open('style.css', 'w', encoding='utf-8') as f:
+    f.write(css_content)
+
+print("✅ Archivo style.css generado correctamente.")
